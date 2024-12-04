@@ -1,0 +1,58 @@
+{
+    "usersData": [
+        {
+            "name": "Rajesh",
+            "email": "rajesh9@gmail.com",
+            "role": "Super Admin",
+            "access": "Full",
+            "lastActivity": "5 Days ago",
+            "state": true,
+            "image": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+            "name": "Santosh",
+            "email": "santosh@gmail.com",
+            "role": "Manager",
+            "access": "Limited",
+            "lastActivity": "6 Days ago",
+            "state": false,
+            "image": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+            "name": "Hema",
+            "email": "hema@gmail.com",
+            "role": "Super Admin",
+            "access": "Full",
+            "lastActivity": "5 Days ago",
+            "state": true,
+            "image": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+            "name": "Anita",
+            "email": "anita@gmail.com",
+            "role": "Developer",
+            "access": "Limited",
+            "lastActivity": "2 Days ago",
+            "state": true,
+            "image": "https://i.pravatar.cc/150?img=4"
+        },
+        {
+            "name": "Vikram",
+            "email": "vikram@gmail.com",
+            "role": "Tester",
+            "access": "Limited",
+            "lastActivity": "3 Days ago",
+            "state": false,
+            "image": "https://i.pravatar.cc/150?img=5"
+        },
+        {
+            "name": "Tarun",
+            "email": "tarun@gmail.com",
+            "role": "Intern",
+            "access": "Limited",
+            "lastActivity": "1 Days ago",
+            "state": true,
+            "image": "https://i.pravatar.cc/150?img=6"
+        }
+    ]
+}

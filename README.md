@@ -71,7 +71,7 @@ To run the RBAC User Interface locally, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vansh-codes/rbac-ui.git
+git clone https://github.com/Aishwaryagunjal6/Role-Based-Access-Control-RBAC-UI.git
 ```
 
 ### Step 2: Install Dependencies
